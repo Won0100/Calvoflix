@@ -1,0 +1,27 @@
+.Header{
+    background-color: black;
+    border-bottom: 2px solid red;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    align-items: center;  
+    justify-content: space-between;  
+}
+
+.Header nav{
+    margin-right: 1rem;
+}
+
+.Header span{
+    font-size: 2rem;
+    color: red;
+    font-weight: 500;
+}
+.Header a {
+    text-decoration: none;
+    columns: #fff;
+    padding-inline: 0.5rem
+}
