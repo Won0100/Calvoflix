@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <Banner />
+      <Banner imagem='home'/>
       <Container>
         <h1>Testando container</h1>
         <p>teste teste calvoflix</p>
